@@ -1,6 +1,6 @@
   ### Olá! Eu sou o Marcos Sobral 👋
 
-- 🔭 Atualmente cursando no IFTO - Campus Paraíso do Tocantíns a graduação de Sistemas de Informação - 7º Periodo  
+- 🔭 Atualmente cursando no IFTO - Campus Paraíso do Tocantíns a graduação de Sistemas de Informação - 8º Periodo  
 - 🌱 Aprendendo trabalhar com front-end
  
 <div> 
