@@ -1,4 +1,6 @@
-  ### Olá! Eu sou o Marcos Sobral 👋
+ <img align="right" alt="GRDx1-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809468459448664126/1025438582229454939/ms.gif">
+
+### Olá! Eu sou o Marcos Sobral 👋
 
 - 🔭 Atualmente cursando no IFTO - Campus Paraíso do Tocantíns a graduação de Sistemas de Informação - 8º Periodo  
 - 🌱 Aprendendo trabalhar com front-end
