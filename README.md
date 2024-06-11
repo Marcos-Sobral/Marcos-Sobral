@@ -2,8 +2,8 @@
 
 ### Olá! Eu sou o Marcos Sobral 👋
 
-- 🔭 Atualmente cursando no IFTO - Campus Paraíso do Tocantíns a graduação de Sistemas de Informação - 8º Periodo  
-- 🌱 Aprendendo trabalhar com front-end
+- 🔭 Formado em Sistemas de Informação - Campus Paraíso do Tocantíns | Pós graduado em Desenvolvimento Full Stack pela Faculdade Descomplica  
+- 🌱 Em busca de entrar no mercado de desenvolvimento de software
  
 <div> 
   <a href="https://www.youtube.com/channel/UCqxKFeBKTYpE7AIIyY4e_gg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
